@@ -163,9 +163,16 @@ header nav a {
     align-items: baseline;
     padding: 20px 0 40px 0;
 }
+.future{
+    padding-top:100px;
+}
+
+
+
 
 .jumboimg{
     margin-bottom: 20px
+    padding: 0px 0px 40px;
 }
 
 .middle-content .boxes .box10{
